@@ -1,0 +1,9 @@
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/yiannisy/behop-dashboard
+[submodule "behop-misc"]
+	path = behop-misc
+	url = https://github.com/yiannisy/behop-misc
+[submodule "pox"]
+	path = pox
+	url = https://github.com/yiannisy/behop-pox
