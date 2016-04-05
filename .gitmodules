@@ -7,3 +7,6 @@
 [submodule "pox"]
 	path = pox
 	url = https://github.com/yiannisy/behop-pox
+[submodule "behop-openwrt"]
+	path = behop-openwrt
+	url = https://github.com/yiannisy/behop-openwrt
