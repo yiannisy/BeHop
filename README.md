@@ -5,6 +5,8 @@ The BeHop WiFi project has two main goals:
 - Enable users to personalize their WiFi experience (setting their own SSID and firewalls) over a shared WiFi infrastructure 
 - Enable network administrators to better contol a dense WiFi deployment through a centralized and virtualized architecture. 
 
+The BeHop system consists of wireless APs (running OpenWrt, OpenvSwitch and custom BeHop utilities), a centralized controller (based on the POX OpenFlow controller), and other utilities for data collection, processing and visualization. 
+
 ## Authors
 - Yiannis Yiakoumis
 - Manu Bansal
