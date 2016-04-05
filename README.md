@@ -6,8 +6,8 @@ The BeHop WiFi project has two main goals:
 - Enable network administrators to better contol a dense WiFi deployment through a centralized and virtualized architecture. 
 
 ## Authors
-- Yiannis Yiakoumis (yiannisy@stanford.edu)
-- Manu Bansal (manub@stanford.edu)
+- Yiannis Yiakoumis
+- Manu Bansal
 
 ## Papers
 - BeHop : A testbed for dense WiFi networks
@@ -21,6 +21,6 @@ Look at the following submodules for more information:
 
 - behop-pox: Fork of POX OpenFlow controller with modules for WiFi virtualization and ovsdb management. 
 - behop-misc: Miscellaneous utilities (including utilities to remotely upgrade AP firmware, add kernel state per station through ovsdb)
-- behop-openwrt: From of OpenWrt for BeHop support (including ath9k support for virtual BSSIDs and WiFi virtualization).
+- behop-openwrt: Fork of OpenWrt for BeHop support (including ath9k support for virtual BSSIDs and WiFi virtualization).
 - behop-dashboard: Management frontend for usage statistics and WiFi events.
 
