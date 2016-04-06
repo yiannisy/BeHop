@@ -1,5 +1,5 @@
 # BeHop
-Codebase for the BeHop WiFi Project at Stanford University. 
+Codebase for the BeHop WiFi Project at Stanford University (http://stanford.edu/~yiannisy/behop). 
 
 The BeHop WiFi project has two main goals:
 - Enable users to personalize their WiFi experience (setting their own SSID and firewalls) over a shared WiFi infrastructure 
